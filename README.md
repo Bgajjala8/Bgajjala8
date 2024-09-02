@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! </samp></h4>
+<h3 align="center"><samp> Hi there 👋🏾  welcome to my Github! </samp></h3>
 
 <p align="center">
 <a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
